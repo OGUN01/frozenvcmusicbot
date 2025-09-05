@@ -378,7 +378,7 @@ async def start_handler(_, message):
     support_group = os.getenv("SUPPORT_GROUP", "https://t.me/+UKwg1CFkKjpmZTEx")
     start_animation = os.getenv(
         "START_ANIMATION",
-        "https://frozen-imageapi.lagendplayersyt.workers.dev/file/2e483e17-05cb-45e2-b166-1ea476ce9521.mp4"
+        "https://player.vimeo.com/video/1116063509?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;dnt=1"
     )
 
     caption = (
